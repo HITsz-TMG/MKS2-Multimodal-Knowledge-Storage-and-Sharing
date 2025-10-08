@@ -12,5 +12,10 @@ Modular Visual Memory (MVM): Stores rich, open-world visual information directly
 
 Mixture of Multimodal Experts (MoME): A soft routing architecture that dynamically invokes specialized visual knowledge during text generation.
 
+![The detailed architecture of MKS2](/figures/model_new.png)
+
 Experiments show that MKS² significantly boosts LLM reasoning on tasks requiring physical and commonsense knowledge, while achieving competitive performance on standard multimodal benchmarks.
 
+## Model Training
+
+The codes will be released soon.

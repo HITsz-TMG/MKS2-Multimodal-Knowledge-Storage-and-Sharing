@@ -72,3 +72,18 @@ The training codes will be released soon.
 | MKS2-Llama-2-7b<sup>+</sup> | 1M | **83.3** | **64.7** | **51.6** | **54.8** | **53.2** | **22.8** | **55.1** |
 
 
+### Citations
+
+```
+@ARTICLE{11353361,
+  author={Li, Yunxin and Liu, Zhenyu and Hu, Baotian and Wang, Wei and Ding, Yuxin and Cao, Xiaochun and Zhang, Min},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage and Sharing in LLMs}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Multimodal large language model;image-text understanding;vision enhancing LLM},
+  doi={10.1109/TIP.2025.3649356}}
+```
+
